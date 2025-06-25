@@ -1,15 +1,14 @@
-body {
-  /* background-image: url(summer.avif); */
-}
 .navbar {
   background: transparent;
   backdrop-filter: blur(200px);
   background-color: rgba(0, 0, 0, .035);
 }
+
 .login-button {
   font-size: 14px;
   transition: 0.3s background-color;
 }
+
 .navbar-toggler {
     font-size: 1.2rem;
     border: none;
